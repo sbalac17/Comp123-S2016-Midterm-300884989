@@ -13,6 +13,10 @@ namespace COMP123_MidTermExam
      * 
      * @class Lotto649
      */
+    /*Shivya Balachandran
+  Comp123
+  06/24/2016
+  */
     public class Lotto649 : LottoGame, IGenerateLottoNumbers
     {
         // CONSTRUCTORS ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace COMP123_MidTermExam
 {
+    /*
+    Shivya Balachandran
+    Comp123
+    06/24/2016
     /**
      * <summary>
      * This abstract class is a blueprint for all Lotto Games
@@ -121,6 +125,7 @@ namespace COMP123_MidTermExam
     {
 
     }
+    int numbers = 
 
         }
 

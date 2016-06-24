@@ -12,6 +12,10 @@ namespace COMP123_MidTermExam
     * 
     * @class LottoMax
     */
+    /*Shivya Balachandran
+    Comp123
+    06/24/2016
+    */
     public class LottoMax : LottoGame, IGenerateLottoNumbers
     {
         /**
